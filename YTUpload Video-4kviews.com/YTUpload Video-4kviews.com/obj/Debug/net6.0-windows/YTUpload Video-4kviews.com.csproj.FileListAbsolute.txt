@@ -1,0 +1,27 @@
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.csproj.AssemblyReference.cache
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload_Video_4kviews.com.Form1.resources
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.csproj.GenerateResource.cache
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.AssemblyInfoInputs.cache
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.AssemblyInfo.cs
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.csproj.CoreCompileInputs.cache
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\YTUpload Video-4kviews.com.exe
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\YTUpload Video-4kviews.com.deps.json
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\YTUpload Video-4kviews.com.runtimeconfig.json
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\YTUpload Video-4kviews.com.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\YTUpload Video-4kviews.com.pdb
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Google.Apis.YouTube.v3.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.csproj.CopyComplete
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\refint\YTUpload Video-4kviews.com.dll
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.pdb
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\YTUpload Video-4kviews.com.genruntimeconfig.cache
+C:\Users\4k Views\source\repos\YTUpload Video-4kviews.com\YTUpload Video-4kviews.com\obj\Debug\net6.0-windows\ref\YTUpload Video-4kviews.com.dll
